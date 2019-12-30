@@ -1,11 +1,10 @@
 // ==============================================
 // TD Sequential - Setup and Countdown
-// Igor Molnar, 2018.
+// 
 // ==============================================
 // Tom DeMark's Sequential indicator with both Setup and Countdown components implemented 
 // according to the rules outlined in: DeMark Indicators by Jason Perl (Bloomberg Market Essentials)
 // 
-// Feel free to PM me your comments, suggestions and bug reports at https://www.tradingview.com/u/Yngvar/
 
 //@version=2
 study("TD Sequential (Setup and Countdown)", overlay=true)
